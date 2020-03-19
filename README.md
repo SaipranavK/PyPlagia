@@ -5,8 +5,8 @@ Identifies similar line/contribution between two individual documents based on d
 
 ## Developed with and dependencies
 Python - https://www.python.org/
-nltk (NLTK is a leading platform for building Python programs to work with human language data) - https://www.nltk.org/
-textstat (Python package to calculate statistics from text to determine readability, complexity and grade level of a particular corpus) - https://pypi.org/project/textstat/
+<br>nltk (NLTK is a leading platform for building Python programs to work with human language data) - https://www.nltk.org/
+<br>textstat (Python package to calculate statistics from text to determine readability, complexity and grade level of a particular corpus) - https://pypi.org/project/textstat/
 
 ## Local Execution
 pip install nltk

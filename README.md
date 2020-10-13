@@ -9,6 +9,7 @@ Python - https://www.python.org/
 <br>textstat (Python package to calculate statistics from text to determine readability, complexity and grade level of a particular corpus) - https://pypi.org/project/textstat/
 
 ## Local Execution
-pip install nltk
-pip install textstat
+```
+pip install nltk textstat
 python -m program.py
+```
